@@ -3,7 +3,7 @@
 		"Title": "Walk Like an Egyptian",
 		"Genre": "Pop rock",
 		"Artist": "The Bangle",
-		"Date released": "1986",
+		"Year": "1986",
 		"Length": "3:24",
 		"Songwriter": "Liam Sternberg",
 		"Producer": "David Kahne"
@@ -13,7 +13,7 @@
 		"Title": "Roundabout",
 		"Genre": "Progressive rock",
 		"Artist": "Yes",
-		"Date released": "1/1972",
+		"Year": "1972",
 		"Length": "8:29",
 		"Songwriter": ["Jon Anderson", "steve Howe"],
 		"Producer": ["Eddie Offord", "Yes"]
@@ -23,7 +23,7 @@
 		"Title": "Last Train Home",
 		"Genre": ["Jazz fusion", "Comtemporary Jazz", "World Music"],
 		"Artist": "Pat Metheny Group",
-		"Date released": "3/4/2015",
+		"Year": "2015",
 		"Length": "78:04",
 		"Producer": "Pat Metheny Group"
 	}
