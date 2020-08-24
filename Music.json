@@ -1,0 +1,100 @@
+[
+	{
+		"Title": "Walk Like an Egyptian",
+		"Genre": "Pop rock",
+		"Artist": "The Bangle",
+		"Date released": "1986",
+		"Length": "3:24",
+		"Songwriter": "Liam Sternberg",
+		"Producer": "David Kahne"
+	},
+	
+	{
+		"Title": "Roundabout",
+		"Genre": "Progressive rock",
+		"Artist": "Yes",
+		"Date released": "1/1972",
+		"Length": "8:29",
+		"Songwriter": ["Jon Anderson", "steve Howe"],
+		"Producer": ["Eddie Offord", "Yes"]
+	},
+	
+	{
+		"Title": "Last Train Home",
+		"Genre": ["Jazz fusion", "Comtemporary Jazz", "World Music"],
+		"Artist": "Pat Metheny Group",
+		"Date released": "3/4/2015",
+		"Length": "78:04",
+		"Producer": "Pat Metheny Group"
+	},
+	
+	{
+		"Title": "I Want You",
+		"Genre": ["Electronic rock", "Pop rock", "Synthpop"],
+		"Artist": "Savage Garden",
+		"Date released": "5/27/1996",
+		"Length": "3:53",
+		"Songwriter": ["Darren Hayes", "Daniel Jones"],
+		"Producer": ["Savage Garden", "Charles Fisher"]
+	},
+	
+	{
+		"Title": "Freek'n You",
+		"Genre": "R&B",
+		"Artist": "Jodeci",
+		"Date released": "5/30/1995",
+		"Length": "6:33",
+		"Songwriter": "DeVante Swing",
+		"Producer": "DeVante Swing"
+	},
+	
+	{
+		"Title": "Modern Crusaders",
+		"Genre": "Dance/Electronic",
+		"Artist": "Enigma",
+		"Date released": "2000",
+		"Length": "3:50",
+		"Producer": "Michael Cretu"
+	},
+	
+	{
+		"Title": "Bohemian Rhapsody",
+		"Genre": ["Classic rock", "Rock"]
+		"Artist": "Queen",
+		"Date released": "10/31/1975",
+		"Length": "5:55",
+		"Songwriter": "Freddie Mercury",
+		"Producer": ["Roy Thomas Baker", "Queen"]
+	},
+	
+	{
+		"Title": "Killer Queen",
+		"Genre": ["Art Pop", "Glam rock", "Power pop"],
+		"Artist": "Queen",
+		"Date released": "10/11/1974",
+		"Length": "3:01",
+		"Songwriter": "Freddie Mercury",
+		"Producer": ["Roy Thomas Baker", "Queen"]
+	},
+	
+	{
+		"Title": "Shine on you Crazy Diamond",
+		"Genre": ["Progressive rock", "Blues rock"],
+		"Artist": "Pink Floyd",
+		"Date released": "9/15/1975",
+		"Length": "26:00",
+		"Songwriter": ["Roger Waters", "David Gilmour", ""Richard Wright],
+		"Producer": "Pink Floyd"
+	},
+	
+	{
+		"Title": "Sweet Dreams(Are Made of This)",
+		"Genre": ["Synth-pop", "new wave"],
+		"Artist": ["Annie Lennox", "Dave Stewart"], 
+		"Date released": "1/21/1983",
+		"Length": "4:48",
+		"Songwriter": ["Annie Lennox", "David A. Stewart"],
+		"Producer": David A. Stewart
+	}
+
+]
