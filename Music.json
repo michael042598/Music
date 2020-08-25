@@ -3,14 +3,14 @@
 		"Title": "Walk Like an Egyptian",
 		"Artist": "The Bangle",
 		"Year": "1986",
-		"Genre": "Pop rock"
+		"Genre": ["Pop rock"]
 	},
 	
 	{
 		"Title": "Roundabout",
 		"Artist": "Yes",
 		"Year": "1972",
-		"Genre": "Progressive rock"
+		"Genre": ["Progressive rock"]
 	},
 	
 	{
